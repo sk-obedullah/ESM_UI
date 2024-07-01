@@ -1,0 +1,28 @@
+.button{
+    width: auto;
+    border-radius: 50px;
+    font-weight: bold;
+    margin-right: 10px;
+
+}
+
+.menu{
+    text-align: center;
+    margin-right: 50px;
+    padding-top: 5%;
+}
+.logout{
+    border-radius: 50px;
+            font-weight: bold;
+            width: auto;
+            margin-right: 30px;
+            background-color: red;
+            position: absolute;
+}
+
+.close{
+   text-align: right;
+    margin-right: 50px;
+    padding-top: 1%;
+    padding-right: 30px;
+}
